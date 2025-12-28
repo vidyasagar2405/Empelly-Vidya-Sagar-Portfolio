@@ -16,22 +16,6 @@ and analytical skills.
 
 ---
 
-## Education
-
-Bachelor of Technology – Computer Science & Engineering (Data Science)  
-JNTUH University, Vaagdevi Engineering College, Warangal  
-2021 – 2025 | CGPA: 6.7
-
-Intermediate – MPC  
-Telangana State Model Junior College, Jangaon  
-2019 – 2021 | CGPA: 9.6
-
-High School  
-Telangana State Model School, Jangaon  
-2019 | CGPA: 9.5
-
----
-
 ## Technical Skills
 
 - Python Programming  
@@ -66,6 +50,22 @@ decision making.
 - Deloitte Australia – Data Analytics Job Simulation  
 - Image Essentials with OpenCV to ML  
 - Gen-AI Workshop (Basics to Deployment)  
+
+---
+
+## Education
+
+Bachelor of Technology – Computer Science & Engineering (Data Science)  
+JNTUH University, Vaagdevi Engineering College, Warangal  
+2021 – 2025 | CGPA: 6.7
+
+Intermediate – MPC  
+Telangana State Model Junior College, Jangaon  
+2019 – 2021 | CGPA: 9.6
+
+High School  
+Telangana State Model School, Jangaon  
+2019 | CGPA: 9.5
 
 ---
 
